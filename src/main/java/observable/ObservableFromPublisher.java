@@ -1,3 +1,5 @@
+package observable;
+
 import io.reactivex.rxjava3.core.Observable;
 import org.reactivestreams.Publisher;
 import org.reactivestreams.Subscriber;
